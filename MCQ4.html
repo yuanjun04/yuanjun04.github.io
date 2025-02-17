@@ -6,9 +6,14 @@
 <body>
     <h1>QUIZ</h1>
 
-    <!-- Input for selecting JSON file -->
-    <label for="jsonFile">Enter JSON filename:</label>
-    <input type="text" id="jsonFile" placeholder="Mechanism-of-Diuretics.json">
+        <!-- Dropdown to select JSON file -->
+    <label for="jsonFile">Select JSON file:</label>
+    <select id="jsonFile">
+        <option value="Mechanism-of-Diuretics.json">Mechanism-of-Diuretics.json</option>
+        <option value="quiz-questions.json">quiz-questions.json</option>
+        <!-- Add more JSON files here if needed -->
+    </select>
+
     <button onclick="loadQuiz()">Load Quiz</button>
 
     <div id="quiz-container"></div>
