@@ -1,0 +1,64 @@
+{ 
+   "questions": [
+    {
+        "title": "Site of Primary Action", 
+        "content": "Where in the nephron does furosemide primarily exert its diuretic effect?",
+                "options": ["Proximal convoluted tubule", "Ascending limb of the loop of Henle", "Distal convoluted tubule", "Collecting duct"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "title": "Inhibited Ion Transporters",
+        "content": "Which ion transporter is primarily inhibited by furosemide in the ascending limb of the loop of Henle?",
+        "options": ["Na+/K+ ATPase pump", "NKCC2 (sodium-potassium-chloride cotransporter)", "ROMK (Romanski potassium channel)", "Cl-/HCO3- exchanger"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "title": "Effect on Ion Excretion",
+        "content": "What is the primary effect of furosemide's action on ion reabsorption in the ascending limb?",
+    "options": ["Decreases sodium, potassium, and chloride reabsorption", "Increases sodium, potassium, and chloride reabsorption", "Decreases sodium and potassium reabsorption, increases chloride reabsorption", "Increases sodium reabsorption, decreases potassium and chloride"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "title": "Consequence on Potassium Levels",
+        "content": "How does furosemide's inhibition of ROMK in the distal convoluted tubule affect potassium excretion?",
+    "options": ["Increases potassium excretion", "Decreases potassium excretion", "No significant effect on potassium levels"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "title": "Therapeutic Use and Mechanism",
+        "content": "What is the primary therapeutic use of furosemide due to its mechanism of action?",
+        "options": ["Reducing blood pressure by decreasing peripheral resistance", "Increasing urine output by enhancing electrolyte excretion", "Correcting metabolic acidosis by exchanging chloride for bicarbonate"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "title": "Comparison with Thiazides",
+        "content": "How does the site and mechanism of action of furosemide differ from that of thiazide diuretics?",
+        "options": ["Both act in the same part of the nephron but target different ion transporters", "urosemide acts in the proximal tubule, while thiazides act in the loop of Henle", "Thiazides inhibit NKCC2, whereas furosemide primarily inhibits ROMK","Furosemide acts in the loop of Henle and affects more ions than thiazides"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "title": "Clinical Implication of Electrolyte Loss",
+        "content": "What is a common electrolyte disturbance associated with the use of furosemide?",
+        "options": ["Hypokalemia", "Hyperkalemia", "Hyponatremia", "Hypernatremia"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "title": "Hydrostatic Oncomelanin Pathway",
+        "content": "Which statement best describes the role of hydrostatic oncomelanin in furosemide's action?",
+        "options": ["It directly inhibits ROMK in the distal convoluted tubule", "It enhances the effect of NKCC2 inhibition in the loop of Henle", "It facilitates water reabsorption independently of sodium"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "title": "Pharmacokinetics",
+        "content": "What is the primary route of excretion for furosemide?",
+        "options": ["Renal", "Hepatic", "Biliary", "Pulmonary"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "title": "Tissue Selectivity",
+        "content": "Why is furosemide considered to have greater tissue selectivity compared to other diuretics?",
+        "options": ["Due to its high extraction by the kidneys", "Because it is metabolized in the liver", "Its inability to cross the blood-brain barrier"],
+        "correctAnswerIndex": 0
+    }
+  ]
+}
