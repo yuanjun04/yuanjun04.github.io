@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following diuretics acts by inhibiting the Na-K-2Cl symporter in the thick ascending limb of the loop of Henle?",
+      "options": [
+        "Hydrochlorothiazide",
+        "Furosemide",
+        "Spironolactone",
+        "Acetazolamide"
+      ],
+      "answer": "Furosemide"
+    },
+    {
+      "question": "Which diuretic class is most likely to cause hypokalemia as a side effect?",
+      "options": [
+        "Potassium-sparing diuretics",
+        "Thiazide diuretics",
+        "Osmotic diuretics",
+        "Carbonic anhydrase inhibitors"
+      ],
+      "answer": "Thiazide diuretics"
+    },
+    {
+      "question": "What is the primary mechanism of action of spironolactone?",
+      "options": [
+        "Inhibition of aldosterone receptors in the distal tubule",
+        "Inhibition of the Na-K-2Cl symporter in the loop of Henle",
+        "Inhibition of carbonic anhydrase in the proximal tubule",
+        "Inhibition of sodium channels in the distal tubule"
+      ],
+      "answer": "Inhibition of aldosterone receptors in the distal tubule"
+    },
+    {
+      "question": "Which of the following diuretics is most appropriate for managing edema in a patient with congestive heart failure and hyperkalemia?",
+      "options": [
+        "Furosemide",
+        "Hydrochlorothiazide",
+        "Spironolactone",
+        "Mannitol"
+      ],
+      "answer": "Furosemide"
+    },
+    {
+      "question": "What is the primary site of action of thiazide diuretics?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Thick ascending limb of the loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": "Distal convoluted tubule"
+    }
+  ]
+}
