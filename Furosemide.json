@@ -1,7 +1,6 @@
 { 
   "questions": [
     {
-        "title": "Site of Primary Action", 
         "question": "Where in the nephron does furosemide primarily exert its diuretic effect?",
                 "options": ["Proximal convoluted tubule", "Ascending limb of the loop of Henle", "Distal convoluted tubule", "Collecting duct"],
         "answer": "Ascending limb of the loop of Henle"
