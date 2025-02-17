@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz</title>
+</head>
+<body>
+    <h1>QUIZ</h1>
+
+    <!-- Input for selecting JSON file -->
+    <label for="jsonFile">Enter JSON filename:</label>
+    <input type="text" id="jsonFile" placeholder="Mechanism-of-Diuretics.json">
+    <button onclick="loadQuiz()">Load Quiz</button>
+
+    <div id="quiz-container"></div>
+    <button id="submitButton" style="display: none;">Submit Answers</button>
+
+    <script>
+        let questions = [];
+
+        function fetchQuestions(filename) {
+            fetch(filename)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.questions) {
+                        questions = data.questions;
+                        displayQuestions();
+                    } else {
+                        console.error("Invalid JSON format");
+                        alert("Invalid JSON format: Missing 'questions' array.");
+                    }
+                })
+                .catch(error => console.error('Error fetching questions:', error));
+        }
+
+        function displayQuestions() {
+            const container = document.getElementById('quiz-container');
+            container.innerHTML = '';
+
+            const fragment = document.createDocumentFragment();
+
+            questions.forEach((question, index) => {
+                const questionDiv = document.createElement('div');
+                questionDiv.className = 'question';
+
+                const title = document.createElement('h2');
+                title.textContent = `Q${index + 1}: ${question.question}`;
+                questionDiv.appendChild(title);
+
+                question.options.forEach(option => {
+                    const label = document.createElement('label');
+                    label.style.display = 'block';
+
+                    const input = document.createElement('input');
+                    input.type = 'radio';
+                    input.name = `question-${index}`;
+                    input.value = option;
+
+                    label.appendChild(input);
+                    label.appendChild(document.createTextNode(option));
+                    questionDiv.appendChild(label);
+                });
+
+                fragment.appendChild(questionDiv);
+            });
+
+            container.appendChild(fragment);
+            document.getElementById('submitButton').style.display = 'block';
+        }
+
+        document.getElementById('submitButton').addEventListener('click', () => {
+            const userAnswers = {};
+
+            questions.forEach((question, index) => {
+                const selected = document.querySelector(`input[name="question-${index}"]:checked`);
+                userAnswers[question.question] = selected ? selected.value : null;
+            });
+
+            const results = evaluateAnswers(userAnswers);
+            displayResults(results, userAnswers);
+        });
+
+        function evaluateAnswers(userAnswers) {
+            let score = 0;
+            const correctedAnswers = {};
+
+            questions.forEach(question => {
+                correctedAnswers[question.question] = question.answer;
+                if (userAnswers[question.question] === question.answer) {
+                    score++;
+                }
+            });
+
+            return { total: questions.length, correct: score, correctedAnswers };
+        }
+
+        function displayResults(results, userAnswers) {
+            const fragment = document.createDocumentFragment();
+            const resultDiv = document.createElement('div');
+            resultDiv.innerHTML = `<h2>Results</h2><p>Correct answers: ${results.correct}/${results.total}</p>`;
+            fragment.appendChild(resultDiv);
+
+            const answerList = document.createElement('div');
+            answerList.innerHTML = '<h3>Correct Answers</h3>';
+
+            questions.forEach(question => {
+                const answerItem = document.createElement('p');
+                answerItem.innerHTML = `<strong>${question.question}:</strong> Your answer: <span style="color:${userAnswers[question.question] === results.correctedAnswers[question.question] ? 'green' : 'red'}">${userAnswers[question.question] || 'No answer'}</span>, Correct answer: <strong>${results.correctedAnswers[question.question]}</strong>`;
+                answerList.appendChild(answerItem);
+            });
+
+            fragment.appendChild(answerList);
+            document.getElementById('quiz-container').appendChild(fragment);
+        }
+
+        function loadQuiz() {
+            const filename = document.getElementById('jsonFile').value.trim();
+            if (filename) {
+                fetchQuestions(filename);
+            } else {
+                alert("Please enter a valid JSON filename.");
+            }
+        }
+    </script>
+</body>
+</html>
