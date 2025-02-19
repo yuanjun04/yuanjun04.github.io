@@ -1,0 +1,105 @@
+{
+  "topic": "Pathophysiology",
+  "questions": [
+    {
+      "question": "What is the primary pathophysiological mechanism of congestive heart failure?",
+      "options": [
+        "Decreased cardiac output and fluid retention",
+        "Increased blood glucose levels",
+        "Reduced red blood cell production",
+        "Impaired liver function"
+      ],
+      "answer": "Decreased cardiac output and fluid retention"
+    },
+    {
+      "question": "Which of the following is a hallmark of chronic kidney disease (CKD)?",
+      "options": [
+        "Increased glomerular filtration rate (GFR)",
+        "Decreased blood urea nitrogen (BUN)",
+        "Progressive loss of nephron function",
+        "Elevated serum albumin levels"
+      ],
+      "answer": "Progressive loss of nephron function"
+    },
+    {
+      "question": "What is the primary pathophysiological mechanism of diabetes mellitus?",
+      "options": [
+        "Insulin resistance or deficiency",
+        "Overproduction of thyroid hormones",
+        "Excessive aldosterone secretion",
+        "Impaired liver function"
+      ],
+      "answer": "Insulin resistance or deficiency"
+    },
+    {
+      "question": "Which of the following is a key feature of immune-mediated hemolytic anemia (IMHA)?",
+      "options": [
+        "Increased red blood cell production",
+        "Antibody-mediated destruction of red blood cells",
+        "Decreased white blood cell count",
+        "Elevated platelet count"
+      ],
+      "answer": "Antibody-mediated destruction of red blood cells"
+    },
+    {
+      "question": "What is the primary pathophysiological mechanism of hyperthyroidism in cats?",
+      "options": [
+        "Autoimmune destruction of thyroid tissue",
+        "Autonomous overproduction of thyroid hormones",
+        "Pituitary gland dysfunction",
+        "Iodine deficiency"
+      ],
+      "answer": "Autonomous overproduction of thyroid hormones"
+    },
+    {
+      "question": "Which of the following is a key feature of Addison’s disease (hypoadrenocorticism)?",
+      "options": [
+        "Excessive cortisol production",
+        "Deficiency of aldosterone and cortisol",
+        "Overproduction of thyroid hormones",
+        "Increased blood glucose levels"
+      ],
+      "answer": "Deficiency of aldosterone and cortisol"
+    },
+    {
+      "question": "What is the primary pathophysiological mechanism of pancreatitis?",
+      "options": [
+        "Autoimmune destruction of pancreatic tissue",
+        "Premature activation of digestive enzymes within the pancreas",
+        "Overproduction of insulin",
+        "Impaired liver function"
+      ],
+      "answer": "Premature activation of digestive enzymes within the pancreas"
+    },
+    {
+      "question": "Which of the following is a key feature of feline infectious peritonitis (FIP)?",
+      "options": [
+        "Bacterial infection of the peritoneum",
+        "Immune-mediated vasculitis and effusions",
+        "Overproduction of thyroid hormones",
+        "Impaired liver function"
+      ],
+      "answer": "Immune-mediated vasculitis and effusions"
+    },
+    {
+      "question": "What is the primary pathophysiological mechanism of hypertrophic cardiomyopathy (HCM) in cats?",
+      "options": [
+        "Thickening of the left ventricular wall",
+        "Dilatation of the right ventricle",
+        "Impaired liver function",
+        "Overproduction of thyroid hormones"
+      ],
+      "answer": "Thickening of the left ventricular wall"
+    },
+    {
+      "question": "Which of the following is a key feature of hepatic lipidosis in cats?",
+      "options": [
+        "Excessive glycogen storage in the liver",
+        "Accumulation of fat in hepatocytes",
+        "Overproduction of thyroid hormones",
+        "Impaired kidney function"
+      ],
+      "answer": "Accumulation of fat in hepatocytes"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "topic": "Physiology",
+  "questions": [
+    {
+      "question": "What is the primary function of the renin-angiotensin-aldosterone system (RAAS)?",
+      "options": [
+        "Regulate blood glucose levels",
+        "Maintain blood pressure and fluid balance",
+        "Control body temperature",
+        "Stimulate red blood cell production"
+      ],
+      "answer": "Maintain blood pressure and fluid balance"
+    },
+    {
+      "question": "Which of the following is the primary site of gas exchange in the lungs?",
+      "options": [
+        "Bronchi",
+        "Alveoli",
+        "Trachea",
+        "Bronchioles"
+      ],
+      "answer": "Alveoli"
+    },
+    {
+      "question": "What is the primary role of antidiuretic hormone (ADH) in the body?",
+      "options": [
+        "Increase urine production",
+        "Regulate blood glucose levels",
+        "Promote water reabsorption in the kidneys",
+        "Stimulate red blood cell production"
+      ],
+      "answer": "Promote water reabsorption in the kidneys"
+    },
+    {
+      "question": "Which of the following is the primary function of the sinoatrial (SA) node?",
+      "options": [
+        "Pump blood to the lungs",
+        "Initiate the electrical impulse for heart contraction",
+        "Filter blood in the kidneys",
+        "Regulate blood pressure"
+      ],
+      "answer": "Initiate the electrical impulse for heart contraction"
+    },
+    {
+      "question": "What is the primary role of the liver in carbohydrate metabolism?",
+      "options": [
+        "Produce insulin",
+        "Store glycogen and regulate blood glucose",
+        "Break down proteins into amino acids",
+        "Synthesize bile acids"
+      ],
+      "answer": "Store glycogen and regulate blood glucose"
+    },
+    {
+      "question": "Which of the following is the primary function of the glomerulus in the kidney?",
+      "options": [
+        "Reabsorb water",
+        "Filter blood to form urine",
+        "Secrete hormones",
+        "Regulate blood pressure"
+      ],
+      "answer": "Filter blood to form urine"
+    },
+    {
+      "question": "What is the primary role of the thyroid gland?",
+      "options": [
+        "Regulate calcium levels",
+        "Produce hormones that control metabolism",
+        "Stimulate red blood cell production",
+        "Control blood glucose levels"
+      ],
+      "answer": "Produce hormones that control metabolism"
+    },
+    {
+      "question": "Which of the following is the primary function of the pancreas in digestion?",
+      "options": [
+        "Produce bile",
+        "Secrete digestive enzymes and bicarbonate",
+        "Absorb nutrients",
+        "Store glycogen"
+      ],
+      "answer": "Secrete digestive enzymes and bicarbonate"
+    },
+    {
+      "question": "What is the primary role of the baroreceptors in the cardiovascular system?",
+      "options": [
+        "Detect changes in blood pressure",
+        "Regulate heart rate",
+        "Control body temperature",
+        "Stimulate red blood cell production"
+      ],
+      "answer": "Detect changes in blood pressure"
+    },
+    {
+      "question": "Which of the following is the primary function of the hypothalamus?",
+      "options": [
+        "Regulate body temperature and hunger",
+        "Control voluntary movement",
+        "Filter blood in the kidneys",
+        "Produce digestive enzymes"
+      ],
+      "answer": "Regulate body temperature and hunger"
+    }
+  ]
+}

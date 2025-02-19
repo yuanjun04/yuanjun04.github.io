@@ -1,0 +1,105 @@
+{
+  "topic": "Pharmacology",
+  "questions": [
+    {
+      "question": "What is the primary mechanism of action of furosemide?",
+      "options": [
+        "Inhibit the Na-K-2Cl symporter in the loop of Henle",
+        "Block aldosterone receptors in the distal tubule",
+        "Inhibit carbonic anhydrase in the proximal tubule",
+        "Activate beta-adrenergic receptors"
+      ],
+      "answer": "Inhibit the Na-K-2Cl symporter in the loop of Henle"
+    },
+    {
+      "question": "Which of the following is a common side effect of nonsteroidal anti-inflammatory drugs (NSAIDs)?",
+      "options": [
+        "Hypoglycemia",
+        "Gastrointestinal ulceration",
+        "Hyperkalemia",
+        "Increased red blood cell production"
+      ],
+      "answer": "Gastrointestinal ulceration"
+    },
+    {
+      "question": "What is the primary mechanism of action of methimazole?",
+      "options": [
+        "Inhibit thyroid hormone synthesis",
+        "Block aldosterone receptors",
+        "Stimulate insulin secretion",
+        "Inhibit carbonic anhydrase"
+      ],
+      "answer": "Inhibit thyroid hormone synthesis"
+    },
+    {
+      "question": "Which of the following is a common side effect of glucocorticoids?",
+      "options": [
+        "Hypoglycemia",
+        "Polyuria and polydipsia",
+        "Hyperkalemia",
+        "Increased red blood cell production"
+      ],
+      "answer": "Polyuria and polydipsia"
+    },
+    {
+      "question": "What is the primary mechanism of action of ACE inhibitors (e.g., enalapril)?",
+      "options": [
+        "Inhibit the renin-angiotensin-aldosterone system (RAAS)",
+        "Block beta-adrenergic receptors",
+        "Stimulate insulin secretion",
+        "Inhibit carbonic anhydrase"
+      ],
+      "answer": "Inhibit the renin-angiotensin-aldosterone system (RAAS)"
+    },
+    {
+      "question": "Which of the following is a common side effect of spironolactone?",
+      "options": [
+        "Hyperkalemia",
+        "Hypoglycemia",
+        "Gastrointestinal ulceration",
+        "Increased red blood cell production"
+      ],
+      "answer": "Hyperkalemia"
+    },
+    {
+      "question": "What is the primary mechanism of action of pimobendan?",
+      "options": [
+        "Increase myocardial contractility and vasodilation",
+        "Block aldosterone receptors",
+        "Stimulate insulin secretion",
+        "Inhibit carbonic anhydrase"
+      ],
+      "answer": "Increase myocardial contractility and vasodilation"
+    },
+    {
+      "question": "Which of the following is a common side effect of aminoglycoside antibiotics?",
+      "options": [
+        "Nephrotoxicity",
+        "Hypoglycemia",
+        "Hyperkalemia",
+        "Increased red blood cell production"
+      ],
+      "answer": "Nephrotoxicity"
+    },
+    {
+      "question": "What is the primary mechanism of action of omeprazole?",
+      "options": [
+        "Inhibit gastric acid secretion",
+        "Block aldosterone receptors",
+        "Stimulate insulin secretion",
+        "Inhibit carbonic anhydrase"
+      ],
+      "answer": "Inhibit gastric acid secretion"
+    },
+    {
+      "question": "Which of the following is a common side effect of chemotherapy drugs?",
+      "options": [
+        "Bone marrow suppression",
+        "Hypoglycemia",
+        "Hyperkalemia",
+        "Increased red blood cell production"
+      ],
+      "answer": "Bone marrow suppression"
+    }
+  ]
+}
