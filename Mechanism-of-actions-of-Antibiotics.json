@@ -1,0 +1,105 @@
+{
+  "topic": "Mechanism of Action of Antibiotics",
+  "questions": [
+    {
+      "question": "Which class of antibiotics inhibits bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs)?",
+      "options": [
+        "Tetracyclines",
+        "Beta-lactams",
+        "Macrolides",
+        "Aminoglycosides"
+      ],
+      "answer": "Beta-lactams"
+    },
+    {
+      "question": "What is the primary mechanism of action of tetracyclines?",
+      "options": [
+        "Inhibit bacterial protein synthesis by binding to the 30S ribosomal subunit",
+        "Disrupt bacterial cell membrane integrity",
+        "Inhibit DNA gyrase and topoisomerase IV",
+        "Block folate synthesis"
+      ],
+      "answer": "Inhibit bacterial protein synthesis by binding to the 30S ribosomal subunit"
+    },
+    {
+      "question": "Which of the following antibiotics inhibits bacterial DNA replication by targeting DNA gyrase and topoisomerase IV?",
+      "options": [
+        "Fluoroquinolones",
+        "Sulfonamides",
+        "Macrolides",
+        "Glycopeptides"
+      ],
+      "answer": "Fluoroquinolones"
+    },
+    {
+      "question": "What is the primary mechanism of action of aminoglycosides?",
+      "options": [
+        "Inhibit bacterial protein synthesis by binding to the 30S ribosomal subunit",
+        "Disrupt bacterial cell membrane integrity",
+        "Inhibit RNA polymerase",
+        "Block folate synthesis"
+      ],
+      "answer": "Inhibit bacterial protein synthesis by binding to the 30S ribosomal subunit"
+    },
+    {
+      "question": "Which class of antibiotics inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit?",
+      "options": [
+        "Macrolides",
+        "Beta-lactams",
+        "Fluoroquinolones",
+        "Sulfonamides"
+      ],
+      "answer": "Macrolides"
+    },
+    {
+      "question": "What is the primary mechanism of action of sulfonamides?",
+      "options": [
+        "Inhibit bacterial folate synthesis by competing with para-aminobenzoic acid (PABA)",
+        "Disrupt bacterial cell membrane integrity",
+        "Inhibit DNA gyrase and topoisomerase IV",
+        "Block bacterial cell wall synthesis"
+      ],
+      "answer": "Inhibit bacterial folate synthesis by competing with para-aminobenzoic acid (PABA)"
+    },
+    {
+      "question": "Which of the following antibiotics disrupts bacterial cell membrane integrity?",
+      "options": [
+        "Polymyxins",
+        "Tetracyclines",
+        "Macrolides",
+        "Fluoroquinolones"
+      ],
+      "answer": "Polymyxins"
+    },
+    {
+      "question": "What is the primary mechanism of action of glycopeptides (e.g., vancomycin)?",
+      "options": [
+        "Inhibit bacterial cell wall synthesis by binding to the D-alanyl-D-alanine terminus of peptidoglycan precursors",
+        "Disrupt bacterial cell membrane integrity",
+        "Inhibit RNA polymerase",
+        "Block folate synthesis"
+      ],
+      "answer": "Inhibit bacterial cell wall synthesis by binding to the D-alanyl-D-alanine terminus of peptidoglycan precursors"
+    },
+    {
+      "question": "Which class of antibiotics inhibits bacterial RNA polymerase?",
+      "options": [
+        "Rifamycins",
+        "Beta-lactams",
+        "Macrolides",
+        "Aminoglycosides"
+      ],
+      "answer": "Rifamycins"
+    },
+    {
+      "question": "What is the primary mechanism of action of chloramphenicol?",
+      "options": [
+        "Inhibit bacterial protein synthesis by binding to the 50S ribosomal subunit",
+        "Disrupt bacterial cell membrane integrity",
+        "Inhibit DNA gyrase and topoisomerase IV",
+        "Block folate synthesis"
+      ],
+      "answer": "Inhibit bacterial protein synthesis by binding to the 50S ribosomal subunit"
+    }
+  ]
+}
