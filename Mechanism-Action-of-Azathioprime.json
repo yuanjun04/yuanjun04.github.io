@@ -1,0 +1,105 @@
+{
+  "topic": "Mechanism of Action of Azathioprine",
+  "questions": [
+    {
+      "question": "What is the primary mechanism of action of azathioprine?",
+      "options": [
+        "Inhibition of T-cell activation",
+        "Inhibition of purine synthesis, leading to suppression of lymphocyte proliferation",
+        "Blockade of interleukin-2 (IL-2) receptors",
+        "Inhibition of calcineurin"
+      ],
+      "answer": "Inhibition of purine synthesis, leading to suppression of lymphocyte proliferation"
+    },
+    {
+      "question": "How is azathioprine converted to its active metabolite, 6-mercaptopurine (6-MP)?",
+      "options": [
+        "Non-enzymatic hydrolysis and glutathione transferases (GSTs)",
+        "Thiopurine methyltransferase (TPMT)",
+        "Xanthine oxidase",
+        "Dihydrofolate reductase"
+      ],
+      "answer": "Non-enzymatic hydrolysis and glutathione transferases (GSTs)"
+    },
+    {
+      "question": "What is the active form of azathioprine that incorporates into DNA and RNA, leading to cytotoxicity?",
+      "options": [
+        "6-Mercaptopurine (6-MP)",
+        "Thioinosinic acid (TIMP)",
+        "6-Thioguanine nucleotides (6-TGN)",
+        "6-Methylmercaptopurine (6-MMP)"
+      ],
+      "answer": "6-Thioguanine nucleotides (6-TGN)"
+    },
+    {
+      "question": "Which enzyme exhibits genetic polymorphisms, affecting azathioprine metabolism and toxicity risk?",
+      "options": [
+        "Thiopurine methyltransferase (TPMT)",
+        "Xanthine oxidase",
+        "Glutathione-S-transferase",
+        "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)"
+      ],
+      "answer": "Thiopurine methyltransferase (TPMT)"
+    },
+    {
+      "question": "What is the primary clinical use of azathioprine?",
+      "options": [
+        "Treatment of bacterial infections",
+        "Immunosuppression in autoimmune diseases and organ transplantation",
+        "Management of hypertension",
+        "Treatment of viral infections"
+      ],
+      "answer": "Immunosuppression in autoimmune diseases and organ transplantation"
+    },
+    {
+      "question": "Which of the following is a common side effect of azathioprine due to its mechanism of action?",
+      "options": [
+        "Hypertension",
+        "Bone marrow suppression",
+        "Hyperglycemia",
+        "Hyperkalemia"
+      ],
+      "answer": "Bone marrow suppression"
+    },
+    {
+      "question": "What is the role of xanthine oxidase in azathioprine metabolism?",
+      "options": [
+        "Converts azathioprine to 6-mercaptopurine (6-MP)",
+        "Converts 6-mercaptopurine (6-MP) to inactive metabolites",
+        "Converts 6-thioguanine nucleotides (6-TGN) to active metabolites",
+        "Converts azathioprine to thioinosinic acid (TIMP)"
+      ],
+      "answer": "Converts 6-mercaptopurine (6-MP) to inactive metabolites"
+    },
+    {
+      "question": "Which drug inhibits xanthine oxidase and can increase azathioprine toxicity?",
+      "options": [
+        "Metformin",
+        "Aspirin",
+        "Furosemide",
+        "Allopurinol"
+      ],
+      "answer": "Allopurinol"
+    },
+    {
+      "question": "Why is thiopurine methyltransferase (TPMT) activity tested before starting azathioprine therapy?",
+      "options": [
+        "To assess liver function",
+        "To predict the risk of severe bone marrow toxicity",
+        "To evaluate renal function",
+        "To determine the dose of concomitant antibiotics"
+      ],
+      "answer": "To predict the risk of severe bone marrow toxicity"
+    },
+    {
+      "question": "Which azathioprine metabolite is associated with hepatotoxicity?",
+      "options": [
+        "6-Thioguanine nucleotides (6-TGN)",
+        "6-Methylmercaptopurine (6-MMP)",
+        "Thioinosinic acid (TIMP)",
+        "6-Mercaptopurine (6-MP)"
+      ],
+      "answer": "6-Methylmercaptopurine (6-MMP)"
+    }
+  ]
+}
