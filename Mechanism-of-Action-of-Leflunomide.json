@@ -1,0 +1,105 @@
+{
+  "topic": "Mechanism of Action of Leflunomide",
+  "questions": [
+    {
+      "question": "What is the primary mechanism of action of leflunomide?",
+      "options": [
+        "Inhibition of dihydroorotate dehydrogenase (DHODH)",
+        "Inhibition of inosine monophosphate dehydrogenase (IMPDH)",
+        "Blockade of interleukin-2 (IL-2) receptors",
+        "Inhibition of calcineurin"
+      ],
+      "answer": "Inhibition of dihydroorotate dehydrogenase (DHODH)"
+    },
+    {
+      "question": "Which enzyme does leflunomide’s active metabolite (teriflunomide) specifically inhibit?",
+      "options": [
+        "Dihydroorotate dehydrogenase (DHODH)",
+        "Xanthine oxidase",
+        "Calcineurin",
+        "Thymidylate synthase"
+      ],
+      "answer": "Dihydroorotate dehydrogenase (DHODH)"
+    },
+    {
+      "question": "What is the primary effect of leflunomide on lymphocytes?",
+      "options": [
+        "Promotes lymphocyte proliferation",
+        "Inhibits pyrimidine synthesis, reducing lymphocyte proliferation",
+        "Enhances antigen presentation by dendritic cells",
+        "Increases cytotoxic T-cell activity"
+      ],
+      "answer": "Inhibits pyrimidine synthesis, reducing lymphocyte proliferation"
+    },
+    {
+      "question": "Which nucleotide synthesis pathway is primarily affected by leflunomide?",
+      "options": [
+        "De novo pyrimidine synthesis",
+        "De novo purine synthesis",
+        "Salvage pathway for pyrimidines",
+        "Thymidine synthesis"
+      ],
+      "answer": "De novo pyrimidine synthesis"
+    },
+    {
+      "question": "What is the active metabolite of leflunomide responsible for its immunosuppressive effects?",
+      "options": [
+        "Teriflunomide",
+        "Leflunomide glucuronide",
+        "Leflunomide phosphate",
+        "A77 1726"
+      ],
+      "answer": "Teriflunomide"
+    },
+    {
+      "question": "Which of the following cells is most affected by leflunomide due to their reliance on de novo pyrimidine synthesis?",
+      "options": [
+        "Erythrocytes",
+        "Neutrophils",
+        "Lymphocytes",
+        "Platelets"
+      ],
+      "answer": "Lymphocytes"
+    },
+    {
+      "question": "What is the primary clinical use of leflunomide in veterinary medicine?",
+      "options": [
+        "Treatment of bacterial infections",
+        "Management of immune-mediated diseases (e.g., immune-mediated hemolytic anemia)",
+        "Prevention of viral replication",
+        "Treatment of fungal infections"
+      ],
+      "answer": "Management of immune-mediated diseases (e.g., immune-mediated hemolytic anemia)"
+    },
+    {
+      "question": "Which of the following is a potential side effect of leflunomide therapy?",
+      "options": [
+        "Hyperglycemia",
+        "Hepatotoxicity",
+        "Nephrotoxicity",
+        "Hypokalemia"
+      ],
+      "answer": "Hepatotoxicity"
+    },
+    {
+      "question": "How does leflunomide affect the production of uridine monophosphate (UMP)?",
+      "options": [
+        "It promotes the conversion of dihydroorotate to orotate",
+        "It inhibits the conversion of dihydroorotate to orotate",
+        "It enhances the salvage pathway for pyrimidines",
+        "It increases the production of thymidylate synthase"
+      ],
+      "answer": "It inhibits the conversion of dihydroorotate to orotate"
+    },
+    {
+      "question": "Which of the following drugs has a similar mechanism of action to leflunomide but targets a different enzyme in the nucleotide synthesis pathway?",
+      "options": [
+        "Mycophenolate",
+        "Azathioprine",
+        "Cyclosporine",
+        "Tacrolimus"
+      ],
+      "answer": "Mycophenolate"
+    }
+  ]
+}
