@@ -1,0 +1,105 @@
+{
+  "topic": "Mechanism of Action of Mycophenolate",
+  "questions": [
+    {
+      "question": "What is the primary mechanism of action of mycophenolate?",
+      "options": [
+        "Inhibition of T-cell activation by blocking calcineurin",
+        "Inhibition of inosine monophosphate dehydrogenase (IMPDH)",
+        "Blockade of interleukin-2 (IL-2) receptors",
+        "Inhibition of DNA gyrase"
+      ],
+      "answer": "Inhibition of inosine monophosphate dehydrogenase (IMPDH)"
+    },
+    {
+      "question": "Which enzyme does mycophenolate specifically inhibit to exert its immunosuppressive effects?",
+      "options": [
+        "Dihydrofolate reductase",
+        "Inosine monophosphate dehydrogenase (IMPDH)",
+        "Calcineurin",
+        "Xanthine oxidase"
+      ],
+      "answer": "Inosine monophosphate dehydrogenase (IMPDH)"
+    },
+    {
+      "question": "How is mycophenolate primarily metabolized in the body?",
+      "options": [
+        "By glucuronidation in the liver",
+        "By cytochrome P450 enzymes",
+        "By hydrolysis in plasma",
+        "By intestinal bacteria"
+      ],
+      "answer": "By glucuronidation in the liver"
+    },
+    {
+      "question": "Which of the following drugs can reduce the effectiveness of mycophenolate?",
+      "options": [
+        "Cyclosporine and rifampin",
+        "Ketoconazole and fluconazole",
+        "Aspirin and ibuprofen",
+        "Tacrolimus and sirolimus"
+      ],
+      "answer": "Cyclosporine and rifampin"
+    },
+    {
+      "question": "What is a serious long-term risk associated with mycophenolate use?",
+      "options": [
+        "Increased risk of opportunistic infections",
+        "Hypotension and bradycardia",
+        "Hyperkalemia and weight gain",
+        "Liver enzyme induction"
+      ],
+      "answer": "Increased risk of opportunistic infections"
+    },
+    {
+      "question": "Why is therapeutic drug monitoring important for mycophenolate therapy?",
+      "options": [
+        "To balance efficacy and minimize toxicity",
+        "To prevent acute liver failure",
+        "To enhance renal clearance",
+        "To reduce dependency on other immunosuppressants"
+      ],
+      "answer": "To balance efficacy and minimize toxicity"
+    },
+    {
+      "question": "What is a key advantage of mycophenolate over calcineurin inhibitors like cyclosporine?",
+      "options": [
+        "It does not cause nephrotoxicity",
+        "It directly inhibits interleukin-2 production",
+        "It enhances kidney function in transplant patients",
+        "It does not suppress the immune system"
+      ],
+      "answer": "It does not cause nephrotoxicity"
+    },
+    {
+      "question": "What is the active form of mycophenolate mofetil after administration?",
+      "options": [
+        "Mycophenolic acid",
+        "Mycophenolate sodium",
+        "Mycophenolate glucuronide",
+        "Mycophenolate phosphate"
+      ],
+      "answer": "Mycophenolic acid"
+    },
+    {
+      "question": "Which of the following cells is most affected by mycophenolate due to their reliance on de novo purine synthesis?",
+      "options": [
+        "Erythrocytes",
+        "Neutrophils",
+        "Lymphocytes",
+        "Platelets"
+      ],
+      "answer": "Lymphocytes"
+    },
+    {
+      "question": "How does mycophenolate affect the production of guanosine nucleotides?",
+      "options": [
+        "It promotes the conversion of inosine monophosphate (IMP) to guanosine monophosphate (GMP)",
+        "It inhibits the conversion of inosine monophosphate (IMP) to guanosine monophosphate (GMP)",
+        "It enhances the salvage pathway for guanosine nucleotides",
+        "It increases the production of xanthine oxidase"
+      ],
+      "answer": "It inhibits the conversion of inosine monophosphate (IMP) to guanosine monophosphate (GMP)"
+    }
+  ]
+}
