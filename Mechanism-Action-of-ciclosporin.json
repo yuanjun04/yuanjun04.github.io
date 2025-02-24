@@ -1,0 +1,105 @@
+{
+  "topic": "Mechanism of Action of Ciclosporin",
+  "questions": [
+    {
+      "question": "What is the primary mechanism of action of ciclosporin?",
+      "options": [
+        "Inhibition of T-cell activation by blocking calcineurin",
+        "Inhibition of DNA synthesis in rapidly dividing cells",
+        "Blockade of interleukin-2 (IL-2) receptors",
+        "Inhibition of purine synthesis"
+      ],
+      "answer": "Inhibition of T-cell activation by blocking calcineurin"
+    },
+    {
+      "question": "Which intracellular protein does ciclosporin bind to in order to exert its immunosuppressive effects?",
+      "options": [
+        "Calcineurin",
+        "Cyclophilin",
+        "FK-binding protein (FKBP)",
+        "mTOR"
+      ],
+      "answer": "Cyclophilin"
+    },
+    {
+      "question": "What is the primary effect of ciclosporin on T-cells?",
+      "options": [
+        "Promotes T-cell proliferation",
+        "Inhibits T-cell activation and IL-2 production",
+        "Enhances antigen presentation by dendritic cells",
+        "Increases cytotoxic T-cell activity"
+      ],
+      "answer": "Inhibits T-cell activation and IL-2 production"
+    },
+    {
+      "question": "Which of the following cytokines is most directly affected by ciclosporin?",
+      "options": [
+        "Interleukin-1 (IL-1)",
+        "Interleukin-2 (IL-2)",
+        "Interleukin-6 (IL-6)",
+        "Tumor necrosis factor-alpha (TNF-α)"
+      ],
+      "answer": "Interleukin-2 (IL-2)"
+    },
+    {
+      "question": "What is the role of calcineurin in T-cell activation?",
+      "options": [
+        "It promotes the transcription of IL-2 and other cytokines",
+        "It inhibits the nuclear factor of activated T-cells (NFAT)",
+        "It enhances antigen presentation by dendritic cells",
+        "It increases the production of cytotoxic T-cells"
+      ],
+      "answer": "It promotes the transcription of IL-2 and other cytokines"
+    },
+    {
+      "question": "Which of the following is a common clinical use of ciclosporin in veterinary medicine?",
+      "options": [
+        "Treatment of bacterial infections",
+        "Management of immune-mediated diseases (e.g., atopic dermatitis)",
+        "Prevention of viral replication",
+        "Treatment of fungal infections"
+      ],
+      "answer": "Management of immune-mediated diseases (e.g., atopic dermatitis)"
+    },
+    {
+      "question": "What is the primary molecular target of ciclosporin in the calcineurin pathway?",
+      "options": [
+        "Nuclear factor of activated T-cells (NFAT)",
+        "Cyclophilin",
+        "FK-binding protein (FKBP)",
+        "mTOR"
+      ],
+      "answer": "Cyclophilin"
+    },
+    {
+      "question": "Which of the following is a potential side effect of ciclosporin therapy?",
+      "options": [
+        "Hyperglycemia",
+        "Nephrotoxicity",
+        "Bone marrow suppression",
+        "Hypokalemia"
+      ],
+      "answer": "Nephrotoxicity"
+    },
+    {
+      "question": "How does ciclosporin affect the nuclear factor of activated T-cells (NFAT)?",
+      "options": [
+        "It promotes the translocation of NFAT to the nucleus",
+        "It inhibits the dephosphorylation and activation of NFAT",
+        "It enhances the binding of NFAT to DNA",
+        "It increases the production of NFAT"
+      ],
+      "answer": "It inhibits the dephosphorylation and activation of NFAT"
+    },
+    {
+      "question": "Which of the following drugs has a similar mechanism of action to ciclosporin but binds to FK-binding protein (FKBP) instead of cyclophilin?",
+      "options": [
+        "Tacrolimus",
+        "Sirolimus",
+        "Mycophenolate mofetil",
+        "Azathioprine"
+      ],
+      "answer": "Tacrolimus"
+    }
+  ]
+}
