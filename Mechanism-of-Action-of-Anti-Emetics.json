@@ -1,0 +1,205 @@
+{
+  "topic": "Mechanism of Action of Anti-Emetics",
+  "questions": [
+    {
+      "question": "What is the primary mechanism of action of maropitant?",
+      "options": [
+        "Antagonism of NK1 receptors",
+        "Blockade of 5-HT3 receptors",
+        "Dopamine D2 receptor antagonism",
+        "Stimulation of acetylcholine receptors"
+      ],
+      "answer": "Antagonism of NK1 receptors"
+    },
+    {
+      "question": "Which receptor does ondansetron primarily block to exert its anti-emetic effects?",
+      "options": [
+        "NK1 receptors",
+        "5-HT3 receptors",
+        "Dopamine D2 receptors",
+        "Muscarinic acetylcholine receptors"
+      ],
+      "answer": "5-HT3 receptors"
+    },
+    {
+      "question": "What is the primary mechanism of action of metoclopramide?",
+      "options": [
+        "Antagonism of NK1 receptors",
+        "Blockade of 5-HT3 receptors",
+        "Dopamine D2 receptor antagonism",
+        "Stimulation of acetylcholine receptors"
+      ],
+      "answer": "Dopamine D2 receptor antagonism"
+    },
+    {
+      "question": "Which of the following anti-emetics is most effective for preventing vomiting caused by motion sickness?",
+      "options": [
+        "Maropitant",
+        "Ondansetron",
+        "Metoclopramide",
+        "Diphenhydramine"
+      ],
+      "answer": "Maropitant"
+    },
+    {
+      "question": "What is the primary site of action of maropitant in the body?",
+      "options": [
+        "Chemoreceptor trigger zone (CTZ)",
+        "Vomiting center in the medulla",
+        "Gastrointestinal tract",
+        "Vestibular apparatus"
+      ],
+      "answer": "Chemoreceptor trigger zone (CTZ)"
+    },
+    {
+      "question": "Which of the following anti-emetics is most effective for treating vomiting caused by chemotherapy?",
+      "options": [
+        "Maropitant",
+        "Ondansetron",
+        "Metoclopramide",
+        "Prochlorperazine"
+      ],
+      "answer": "Ondansetron"
+    },
+    {
+      "question": "What is the primary mechanism of action of ondansetron in preventing nausea and vomiting?",
+      "options": [
+        "Blockade of serotonin (5-HT3) receptors in the CTZ and gastrointestinal tract",
+        "Antagonism of dopamine D2 receptors in the CTZ",
+        "Inhibition of substance P binding to NK1 receptors",
+        "Stimulation of acetylcholine receptors in the vomiting center"
+      ],
+      "answer": "Blockade of serotonin (5-HT3) receptors in the CTZ and gastrointestinal tract"
+    },
+    {
+      "question": "Which of the following anti-emetics has prokinetic effects on the gastrointestinal tract?",
+      "options": [
+        "Maropitant",
+        "Ondansetron",
+        "Metoclopramide",
+        "Diphenhydramine"
+      ],
+      "answer": "Metoclopramide"
+    },
+    {
+      "question": "What is the primary clinical use of metoclopramide?",
+      "options": [
+        "Prevention of motion sickness",
+        "Treatment of chemotherapy-induced vomiting",
+        "Management of gastrointestinal motility disorders",
+        "Prevention of postoperative nausea and vomiting"
+      ],
+      "answer": "Management of gastrointestinal motility disorders"
+    },
+    {
+      "question": "Which of the following anti-emetics is most effective for preventing vomiting caused by opioid analgesics?",
+      "options": [
+        "Maropitant",
+        "Ondansetron",
+        "Metoclopramide",
+        "Prochlorperazine"
+      ],
+      "answer": "Maropitant"
+    },
+    {
+      "question": "What is the primary mechanism of action of maropitant in preventing vomiting?",
+      "options": [
+        "Blockade of serotonin (5-HT3) receptors",
+        "Antagonism of substance P binding to NK1 receptors",
+        "Dopamine D2 receptor antagonism",
+        "Stimulation of acetylcholine receptors"
+      ],
+      "answer": "Antagonism of substance P binding to NK1 receptors"
+    },
+    {
+      "question": "Which of the following anti-emetics is most effective for treating vomiting caused by vestibular disorders?",
+      "options": [
+        "Maropitant",
+        "Ondansetron",
+        "Metoclopramide",
+        "Diphenhydramine"
+      ],
+      "answer": "Diphenhydramine"
+    },
+    {
+      "question": "What is the primary mechanism of action of ondansetron in the gastrointestinal tract?",
+      "options": [
+        "Blockade of serotonin (5-HT3) receptors",
+        "Antagonism of dopamine D2 receptors",
+        "Inhibition of substance P binding to NK1 receptors",
+        "Stimulation of acetylcholine receptors"
+      ],
+      "answer": "Blockade of serotonin (5-HT3) receptors"
+    },
+    {
+      "question": "Which of the following anti-emetics is most effective for preventing postoperative nausea and vomiting?",
+      "options": [
+        "Maropitant",
+        "Ondansetron",
+        "Metoclopramide",
+        "Prochlorperazine"
+      ],
+      "answer": "Ondansetron"
+    },
+    {
+      "question": "What is the primary mechanism of action of metoclopramide in the gastrointestinal tract?",
+      "options": [
+        "Blockade of serotonin (5-HT3) receptors",
+        "Antagonism of dopamine D2 receptors",
+        "Inhibition of substance P binding to NK1 receptors",
+        "Stimulation of acetylcholine receptors"
+      ],
+      "answer": "Antagonism of dopamine D2 receptors"
+    },
+    {
+      "question": "Which of the following anti-emetics is most effective for treating vomiting caused by renal failure?",
+      "options": [
+        "Maropitant",
+        "Ondansetron",
+        "Metoclopramide",
+        "Prochlorperazine"
+      ],
+      "answer": "Maropitant"
+    },
+    {
+      "question": "What is the primary mechanism of action of maropitant in the vomiting center?",
+      "options": [
+        "Blockade of serotonin (5-HT3) receptors",
+        "Antagonism of substance P binding to NK1 receptors",
+        "Dopamine D2 receptor antagonism",
+        "Stimulation of acetylcholine receptors"
+      ],
+      "answer": "Antagonism of substance P binding to NK1 receptors"
+    },
+    {
+      "question": "Which of the following anti-emetics is most effective for treating vomiting caused by pancreatitis?",
+      "options": [
+        "Maropitant",
+        "Ondansetron",
+        "Metoclopramide",
+        "Diphenhydramine"
+      ],
+      "answer": "Maropitant"
+    },
+    {
+      "question": "What is the primary mechanism of action of ondansetron in the chemoreceptor trigger zone (CTZ)?",
+      "options": [
+        "Blockade of serotonin (5-HT3) receptors",
+        "Antagonism of dopamine D2 receptors",
+        "Inhibition of substance P binding to NK1 receptors",
+        "Stimulation of acetylcholine receptors"
+      ],
+      "answer": "Blockade of serotonin (5-HT3) receptors"
+    },
+    {
+      "question": "Which of the following anti-emetics is most effective for treating vomiting caused by gastrointestinal obstruction?",
+      "options": [
+        "Maropitant",
+        "Ondansetron",
+        "Metoclopramide",
+        "Prochlorperazine"
+      ],
+      "answer": "Metoclopramide"
+    }
+  ]
+}
