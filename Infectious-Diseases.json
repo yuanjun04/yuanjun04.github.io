@@ -1,0 +1,65 @@
+{
+  "topic": "Infectious Diseases",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 2-year-old dog presents with fever, lethargy, and icterus. Serum biochemistry reveals elevated liver enzymes and bilirubin. What is the most likely infectious cause?",
+      "options": [
+        "Leptospirosis",
+        "Ehrlichiosis",
+        "Lyme disease",
+        "Canine parvovirus"
+      ],
+      "answer": "Leptospirosis",
+      "explanation": "Leptospirosis is a zoonotic bacterial infection that commonly causes fever, icterus, and hepatic injury in dogs. Diagnosis is confirmed by serology or PCR."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the most common clinical sign of feline infectious peritonitis (FIP)?",
+      "options": [
+        "Fever",
+        "Vomiting",
+        "Diarrhea",
+        "Coughing"
+      ],
+      "answer": "Fever",
+      "explanation": "Fever is the most common clinical sign of FIP, along with weight loss and lethargy. Effusive (wet) FIP may also present with abdominal or thoracic effusion."
+    },
+    {
+      "id": 3,
+      "question": "A 5-year-old dog from a rural area presents with lameness, fever, and thrombocytopenia. What is the most likely tick-borne disease?",
+      "options": [
+        "Ehrlichiosis",
+        "Lyme disease",
+        "Rocky Mountain spotted fever",
+        "Anaplasmosis"
+      ],
+      "answer": "Ehrlichiosis",
+      "explanation": "Ehrlichiosis, caused by Ehrlichia spp., commonly presents with fever, lameness, and thrombocytopenia in dogs. Diagnosis is confirmed by serology or PCR."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is the most appropriate treatment for canine parvovirus infection?",
+      "options": [
+        "Antibiotics",
+        "Antivirals",
+        "Corticosteroids",
+        "Fluid therapy and supportive care"
+      ],
+      "answer": "Fluid therapy and supportive care",
+      "explanation": "There is no specific antiviral treatment for canine parvovirus. Management focuses on fluid therapy, antiemetics, and supportive care to prevent secondary infections."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is the primary mode of transmission for feline leukemia virus (FeLV)?",
+      "options": [
+        "Flea bites",
+        "Direct contact with infected saliva",
+        "Transplacental transmission",
+        "Aerosol transmission"
+      ],
+      "answer": "Direct contact with infected saliva",
+      "explanation": "FeLV is primarily transmitted through direct contact with infected saliva, such as mutual grooming or sharing food/water bowls."
+    }
+  ]
+}

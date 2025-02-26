@@ -1,0 +1,65 @@
+{
+  "topic": "Oncology",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 9-year-old Golden Retriever presents with peripheral lymphadenopathy. Fine-needle aspirate reveals large, immature lymphocytes. What is the most likely diagnosis?",
+      "options": [
+        "Lymphoma",
+        "Mast cell tumor",
+        "Osteosarcoma",
+        "Hemangiosarcoma"
+      ],
+      "answer": "Lymphoma",
+      "explanation": "Lymphoma is the most common hematopoietic tumor in dogs and typically presents with peripheral lymphadenopathy. Cytology showing large, immature lymphocytes is diagnostic."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the most common malignant skin tumor in cats?",
+      "options": [
+        "Mast cell tumor",
+        "Squamous cell carcinoma",
+        "Fibrosarcoma",
+        "Melanoma"
+      ],
+      "answer": "Squamous cell carcinoma",
+      "explanation": "Squamous cell carcinoma is the most common malignant skin tumor in cats, often associated with sun exposure and white-haired skin."
+    },
+    {
+      "id": 3,
+      "question": "A 7-year-old Boxer presents with a rapidly growing, ulcerated mass on the hindlimb. Cytology reveals round cells with purple granules. What is the most likely diagnosis?",
+      "options": [
+        "Mast cell tumor",
+        "Melanoma",
+        "Hemangiosarcoma",
+        "Lymphoma"
+      ],
+      "answer": "Mast cell tumor",
+      "explanation": "Mast cell tumors are common in Boxers and often present as rapidly growing, ulcerated masses. Cytology showing round cells with purple granules (mast cell granules) is diagnostic."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is the most common primary bone tumor in dogs?",
+      "options": [
+        "Osteosarcoma",
+        "Chondrosarcoma",
+        "Fibrosarcoma",
+        "Hemangiosarcoma"
+      ],
+      "answer": "Osteosarcoma",
+      "explanation": "Osteosarcoma is the most common primary bone tumor in dogs, typically affecting large breeds and occurring in the metaphysis of long bones."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is the most appropriate treatment for localized mast cell tumors in dogs?",
+      "options": [
+        "Chemotherapy",
+        "Radiation therapy",
+        "Surgical excision",
+        "Corticosteroids"
+      ],
+      "answer": "Surgical excision",
+      "explanation": "Surgical excision with wide margins is the treatment of choice for localized mast cell tumors. Adjuvant therapy may be considered for high-grade tumors."
+    }
+  ]
+}

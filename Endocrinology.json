@@ -1,0 +1,65 @@
+{
+  "topic": "Endocrinology",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 10-year-old neutered male Dachshund presents with polyuria, polydipsia, and a pendulous abdomen. Serum biochemistry reveals elevated alkaline phosphatase (ALP) and cholesterol. What is the most likely diagnosis?",
+      "options": [
+        "Diabetes mellitus",
+        "Hyperadrenocorticism (Cushing's disease)",
+        "Hypothyroidism",
+        "Primary hyperparathyroidism"
+      ],
+      "answer": "Hyperadrenocorticism (Cushing's disease)",
+      "explanation": "The clinical signs (polyuria, polydipsia, pendulous abdomen) and elevated ALP and cholesterol are classic for hyperadrenocorticism. A low-dose dexamethasone suppression test or ACTH stimulation test would confirm the diagnosis."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the most common cause of hyperthyroidism in cats?",
+      "options": [
+        "Thyroid adenoma",
+        "Thyroid carcinoma",
+        "Pituitary adenoma",
+        "Iatrogenic hormone administration"
+      ],
+      "answer": "Thyroid adenoma",
+      "explanation": "Thyroid adenoma is the most common cause of hyperthyroidism in cats, accounting for approximately 98% of cases."
+    },
+    {
+      "id": 3,
+      "question": "A 6-year-old spayed female cat presents with weight loss, polyphagia, and a palpable thyroid nodule. Serum total T4 is elevated. What is the first-line treatment for this condition?",
+      "options": [
+        "Methimazole",
+        "Radioactive iodine (I-131)",
+        "Thyroidectomy",
+        "Prednisolone"
+      ],
+      "answer": "Methimazole",
+      "explanation": "Methimazole is the first-line medical treatment for hyperthyroidism in cats. It inhibits thyroid hormone synthesis and is often used to stabilize the patient before definitive treatment with radioactive iodine or surgery."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a common complication of untreated diabetes mellitus in dogs?",
+      "options": [
+        "Hypoglycemia",
+        "Diabetic ketoacidosis (DKA)",
+        "Hypercalcemia",
+        "Hypokalemia"
+      ],
+      "answer": "Diabetic ketoacidosis (DKA)",
+      "explanation": "Diabetic ketoacidosis is a life-threatening complication of untreated or poorly controlled diabetes mellitus, characterized by hyperglycemia, ketonemia, and metabolic acidosis."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is the most appropriate diagnostic test for hypothyroidism in dogs?",
+      "options": [
+        "Serum total T4",
+        "Free T4 by equilibrium dialysis",
+        "TSH stimulation test",
+        "Thyroid ultrasound"
+      ],
+      "answer": "Free T4 by equilibrium dialysis",
+      "explanation": "Free T4 by equilibrium dialysis is the most reliable single test for diagnosing hypothyroidism in dogs, as it is less affected by non-thyroidal illness compared to total T4."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "topic": "Neurology",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 4-year-old Dachshund presents with acute onset of paraparesis and pain on palpation of the thoracolumbar spine. What is the most likely diagnosis?",
+      "options": [
+        "Intervertebral disc disease (IVDD)",
+        "Meningitis",
+        "Epilepsy",
+        "Brain tumor"
+      ],
+      "answer": "Intervertebral disc disease (IVDD)",
+      "explanation": "Dachshunds are predisposed to IVDD, which commonly presents with acute paraparesis and spinal pain. Imaging (MRI or CT) is required for definitive diagnosis."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the most common cause of seizures in dogs?",
+      "options": [
+        "Idiopathic epilepsy",
+        "Brain tumor",
+        "Toxicity",
+        "Infectious encephalitis"
+      ],
+      "answer": "Idiopathic epilepsy",
+      "explanation": "Idiopathic epilepsy is the most common cause of seizures in dogs, typically presenting between 1-5 years of age with no underlying structural or metabolic cause."
+    },
+    {
+      "id": 3,
+      "question": "A 3-year-old cat presents with head tilt, nystagmus, and ataxia. What is the most likely diagnosis?",
+      "options": [
+        "Vestibular disease",
+        "Feline infectious peritonitis (FIP)",
+        "Brain tumor",
+        "Toxoplasmosis"
+      ],
+      "answer": "Vestibular disease",
+      "explanation": "Head tilt, nystagmus, and ataxia are classic signs of vestibular disease, which can be peripheral (e.g., otitis interna) or central (e.g., brainstem lesion)."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is the most appropriate diagnostic test for suspected meningitis in dogs?",
+      "options": [
+        "MRI",
+        "CSF analysis",
+        "Serology",
+        "Electroencephalography (EEG)"
+      ],
+      "answer": "CSF analysis",
+      "explanation": "CSF analysis is the gold standard for diagnosing meningitis, as it can reveal inflammatory cells, elevated protein, and infectious agents."
+    },
+    {
+      "id": 5,
+      "question": "A 10-year-old dog presents with progressive hindlimb weakness and urinary incontinence. MRI reveals a compressive lesion at T12-L1. What is the most likely diagnosis?",
+      "options": [
+        "Degenerative myelopathy",
+        "Spinal tumor",
+        "Intervertebral disc disease (IVDD)",
+        "Meningitis"
+      ],
+      "answer": "Spinal tumor",
+      "explanation": "Progressive hindlimb weakness and urinary incontinence with a compressive lesion on MRI are suggestive of a spinal tumor, such as a meningioma or lymphoma."
+    }
+  ]
+}
