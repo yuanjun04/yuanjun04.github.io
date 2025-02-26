@@ -10,7 +10,7 @@
         "Factor IX",
         "Factor X"
       ],
-      "Answer": "Factor V",
+      "answer": "Factor V",
       "explanation": "Factors II, VII, IX, and X are vitamin K-dependent factors. Factor V is not vitamin K-dependent."
     },
     {
@@ -22,7 +22,7 @@
         "von Willebrand factor (vWF)",
         "Thrombomodulin"
       ],
-      "Answer": "Tissue factor (TF)",
+      "answer": "Tissue factor (TF)",
       "explanation": "Tissue factor (also known as Factor III) is the primary initiator of the extrinsic pathway, forming a complex with Factor VII."
     },
     {
@@ -34,7 +34,7 @@
         "Thrombin Time (TT)",
         "D-dimer"
       ],
-      "Answer": "Activated Partial Thromboplastin Time (aPTT)",
+      "answer": "Activated Partial Thromboplastin Time (aPTT)",
       "explanation": "aPTT evaluates the intrinsic pathway and common pathway of coagulation, while PT evaluates the extrinsic pathway and common pathway."
     },
     {
@@ -46,7 +46,7 @@
         "Aspirin",
         "Clopidogrel"
       ],
-      "Answer": "Heparin",
+      "answer": "Heparin",
       "explanation": "Heparin (particularly unfractionated heparin) acts by potentiating antithrombin III, which directly inhibits thrombin (Factor IIa) and Factor Xa. Warfarin inhibits vitamin K-dependent factors, while aspirin and clopidogrel affect platelet function."
     },
     {
@@ -58,7 +58,7 @@
         "Antithrombin III",
         "D-dimer level"
       ],
-      "Answer": "D-dimer level",
+      "answer": "D-dimer level",
       "explanation": "In DIC, there is increased fibrin degradation resulting in elevated D-dimer levels. Platelets, fibrinogen, and antithrombin III are typically decreased due to consumption."
     },
     {
@@ -70,7 +70,7 @@
         "Plasminogen to plasmin",
         "Factor X to Factor Xa"
       ],
-      "Answer": "Fibrinogen to fibrin",
+      "answer": "Fibrinogen to fibrin",
       "explanation": "The final step in the coagulation cascade is the conversion of fibrinogen to fibrin, catalyzed by thrombin, resulting in the formation of the fibrin clot."
     },
     {
@@ -82,7 +82,7 @@
         "Protein S",
         "Tissue factor pathway inhibitor (TFPI)"
       ],
-      "Answer": "Antithrombin III",
+      "answer": "Antithrombin III",
       "explanation": "Antithrombin III is commonly lost in protein-losing nephropathy in dogs due to its small molecular size, contributing to the hypercoagulable state seen in these patients."
     },
     {
@@ -94,7 +94,7 @@
         "Factor IX",
         "Calcium ions (Ca²⁺)"
       ],
-      "Answer": "Calcium ions (Ca²⁺)",
+      "answer": "Calcium ions (Ca²⁺)",
       "explanation": "Calcium ions (Ca²⁺) are required cofactors for multiple reactions in both the intrinsic and extrinsic pathways, including the conversion of Factor X to Xa."
     },
     {
@@ -106,7 +106,7 @@
         "von Willebrand factor",
         "Factor XI"
       ],
-      "Answer": "Factor IX",
+      "answer": "Factor IX",
       "explanation": "Hemophilia B (Christmas disease) is caused by a deficiency in Factor IX. Hemophilia A is caused by Factor VIII deficiency, while von Willebrand disease is caused by vWF deficiency."
     },
     {
@@ -118,7 +118,7 @@
         "Collagen",
         "Thromboxane A2"
       ],
-      "Answer": "Thrombin",
+      "answer": "Thrombin",
       "explanation": "Thrombin is the most potent platelet activator. It activates platelets through protease-activated receptors (PARs), triggering shape change, granule release, and aggregation."
     }
   ]
