@@ -1,0 +1,125 @@
+{
+  "topic": "Renin-Aldosterone-Angiotensin System",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which cells in the kidney produce renin?",
+      "options": [
+        "Podocytes",
+        "Juxtaglomerular cells",
+        "Mesangial cells",
+        "Principal cells of the collecting duct"
+      ],
+      "correctAnswer": "Juxtaglomerular cells",
+      "explanation": "Renin is produced by the juxtaglomerular cells, which are modified smooth muscle cells located in the walls of the afferent arterioles at the entrance to the glomeruli."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a stimulus for renin release?",
+      "options": [
+        "Decreased NaCl delivery to the macula densa",
+        "Decreased renal perfusion pressure",
+        "Increased sympathetic nerve activity",
+        "Increased plasma potassium concentration"
+      ],
+      "correctAnswer": "Increased plasma potassium concentration",
+      "explanation": "Increased plasma potassium concentration stimulates aldosterone release directly but does not stimulate renin release. The other options are all stimuli for renin release."
+    },
+    {
+      "id": 3,
+      "question": "Angiotensinogen is converted to Angiotensin I by which enzyme?",
+      "options": [
+        "Renin",
+        "Angiotensin-converting enzyme (ACE)",
+        "Chymase",
+        "Aminopeptidase A"
+      ],
+      "correctAnswer": "Renin",
+      "explanation": "Renin cleaves angiotensinogen (produced by the liver) to form the decapeptide Angiotensin I, which is then converted to Angiotensin II by ACE."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is the main site of Angiotensin-Converting Enzyme (ACE) activity?",
+      "options": [
+        "Hepatocytes",
+        "Vascular endothelium",
+        "Adrenal cortex",
+        "Juxtaglomerular cells"
+      ],
+      "correctAnswer": "Vascular endothelium",
+      "explanation": "ACE is primarily located on the luminal surface of vascular endothelial cells, particularly in the lungs, which convert Angiotensin I to Angiotensin II as blood passes through the pulmonary circulation."
+    },
+    {
+      "id": 5,
+      "question": "Which Angiotensin II receptor mediates most of the classic cardiovascular and renal effects of Angiotensin II?",
+      "options": [
+        "AT₁ receptor",
+        "AT₂ receptor",
+        "AT₃ receptor",
+        "AT₄ receptor"
+      ],
+      "correctAnswer": "AT₁ receptor",
+      "explanation": "The AT₁ receptor mediates the classic effects of Angiotensin II, including vasoconstriction, aldosterone release, sodium reabsorption, and cell growth. The AT₂ receptor often counteracts these effects."
+    },
+    {
+      "id": 6,
+      "question": "Aldosterone primarily acts on which segment of the nephron?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "correctAnswer": "Collecting duct",
+      "explanation": "Aldosterone primarily acts on the principal cells of the collecting duct (and to some extent on the distal convoluted tubule) to increase sodium reabsorption and potassium secretion."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following drugs does NOT inhibit the renin-angiotensin-aldosterone system?",
+      "options": [
+        "Enalapril",
+        "Spironolactone",
+        "Losartan",
+        "Furosemide"
+      ],
+      "correctAnswer": "Furosemide",
+      "explanation": "Furosemide is a loop diuretic that inhibits the Na⁺-K⁺-2Cl⁻ cotransporter in the loop of Henle. While it can indirectly activate RAAS, it does not inhibit it. Enalapril is an ACE inhibitor, spironolactone is an aldosterone antagonist, and losartan is an AT₁ receptor blocker."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT a direct effect of Angiotensin II?",
+      "options": [
+        "Vasoconstriction",
+        "Increased thirst",
+        "Increased sodium excretion",
+        "Stimulation of aldosterone release"
+      ],
+      "correctAnswer": "Increased sodium excretion",
+      "explanation": "Angiotensin II promotes sodium retention, not excretion. It causes sodium retention directly by increasing Na⁺/H⁺ exchange in the proximal tubule and indirectly by stimulating aldosterone release."
+    },
+    {
+      "id": 9,
+      "question": "Which compensatory mechanism is typically activated in dogs with congestive heart failure?",
+      "options": [
+        "Decreased renin-angiotensin-aldosterone system activity",
+        "Increased natriuretic peptide system with decreased RAAS activity",
+        "Increased renin-angiotensin-aldosterone system activity",
+        "Decreased sympathetic nervous system activity"
+      ],
+      "correctAnswer": "Increased renin-angiotensin-aldosterone system activity",
+      "explanation": "In congestive heart failure, reduced cardiac output leads to decreased renal perfusion, activating the RAAS as a compensatory mechanism to increase blood pressure and volume, though this eventually becomes maladaptive."
+    },
+    {
+      "id": 10,
+      "question": "Hyperaldosteronism in cats is most commonly associated with which condition?",
+      "options": [
+        "Adrenocortical adenoma/carcinoma",
+        "Diabetic nephropathy",
+        "Pyelonephritis",
+        "Polycystic kidney disease"
+      ],
+      "correctAnswer": "Adrenocortical adenoma/carcinoma",
+      "explanation": "Primary hyperaldosteronism in cats (Conn's syndrome) is most commonly caused by an aldosterone-producing adrenocortical tumor (adenoma or carcinoma). Clinical signs typically include hypertension and hypokalemia."
+    }
+  ]
+}
